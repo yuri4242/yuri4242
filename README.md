@@ -27,11 +27,11 @@ Also working with: **LangChain** / **LangGraph** / **LlamaIndex**
 A comparative study of RAG frameworks — building the same system with three different frameworks to evaluate quality scores, code complexity, and flexibility. 
 All versions include DeepEval-based quality evaluation.
 
-| Version | Framework | Key Features |
-|:--------|:--------------------------|:-------------------------------------------------------------|
-| [Mark-1](https://github.com/yuri4242/RAG_Mark-1) | LlamaIndex | ChromaDB + OpenAI Embeddings + Japanese Reranking |
-| [Mark-2](https://github.com/yuri4242/RAG_Mark-2) | Haystack | BM25 keyword search + Custom + Japanese tokenizer + Pipeline tracing |
-| [Mark-3](https://github.com/yuri4242/RAG_Mark-3) | LangChain | Japanese Reranking + Persistent vector store |
+| Version | Framework |
+|:--------|:--------------------------|
+| [Mark-1](https://github.com/yuri4242/RAG_Mark-1) | LlamaIndex |
+| [Mark-2](https://github.com/yuri4242/RAG_Mark-2) | Haystack |
+| [Mark-3](https://github.com/yuri4242/RAG_Mark-3) | LangChain |
 
 
 **Common stack**: GPT-4o / text-embedding-3-large / ChromaDB / DeepEval / PyMuPDF
