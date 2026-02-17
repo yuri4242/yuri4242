@@ -1,51 +1,66 @@
-# Hi, I'm yuri4242
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=yuri4242" />
+</div>
 
-Student at 42Tokyo | Backend Engineer Intern at Digital Grid, Inc.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
----
+- 🧑‍💻 Backend engineer intern at Digital Grid, Inc.
+- 🎓 Student at 42Tokyo
+- 🤖 Building RAG systems with LangChain & OpenAI
+- 🌱 Currently learning Clean Architecture & distributed tracing
 
-## About
+<br>
 
-Aspiring backend engineer studying computer science fundamentals at 42Tokyo while gaining hands-on production backend development experience at Digital Grid, Inc.
+## 🌱 Skills
 
-## Tech Stack
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,go,c,cpp,docker,postgres" />
 
-**Backend**
-Python / FastAPI / SQLAlchemy / PostgreSQL / Clean Architecture
+Also working with: **LangChain** / **LangGraph** / **LlamaIndex**
+/ **OpenAI API**
 
-**AI / RAG**
-LangChain / LlamaIndex / OpenAI API / ChromaDB / DeepEval
+<br>
 
-**Systems Programming**
-C / C++
-
-**Infrastructure**
-Docker / AWS (S3, SES, ECS) / GitHub Actions
-
-## Projects
+## 🚀 Projects
 
 ### RAG System Evolution (Mark-1 → Mark-3)
 
-A retrieval-augmented generation system, iteratively designed and
-improved across three versions.
+A comparative study of RAG frameworks — building the same system with three different frameworks to evaluate quality scores, code complexity, and flexibility. 
+All versions include DeepEval-based quality evaluation.
 
 | Version | Framework | Key Features |
-|---------|-----------|-------------|
-| [Mark-1](https://github.com/yuri4242/RAG_Mark-1) | LlamaIndex |
-ChromaDB + OpenAI Embeddings + Japanese Cross-Encoder Reranking |
-| [Mark-2](https://github.com/yuri4242/RAG_Mark-2) | LlamaIndex →
-LangChain | Architecture migration |
-| [Mark-3](https://github.com/yuri4242/RAG_Mark-3) | LangChain | Quality evaluation with DeepEval + Prompt optimization |
+|:--------|:--------------------------|:-------------------------------------------------------------|
+| [Mark-1](https://github.com/yuri4242/RAG_Mark-1) | LlamaIndex | ChromaDB + OpenAI Embeddings + Japanese Reranking |
+| [Mark-2](https://github.com/yuri4242/RAG_Mark-2) | Haystack | BM25 keyword search + Custom + Japanese tokenizer + Pipeline tracing |
+| [Mark-3](https://github.com/yuri4242/RAG_Mark-3) | LangChain | Japanese Reranking + Persistent vector store |
 
-**Common stack**: GPT-4o / text-embedding-3-large / ChromaDB / Japanese Cross-Encoder Reranker
+
+**Common stack**: GPT-4o / text-embedding-3-large / ChromaDB / DeepEval / PyMuPDF
+
+
+
+### AI Agent (WIP)
+
+Building an AI agent powered by RAG and LangGraph for autonomous information retrieval and task execution.
+
+
 
 ### 42Tokyo Cursus
 
-C/C++ projects completed as part of the 42Tokyo curriculum.
-[Repository](https://github.com/yuri4242/42_cursus)
+C/C++ projects from the 42Tokyo curriculum, covering low-level systems programming:
 
-## Currently Learning
+- Memory management
+- Shell implementation
+- libc reimplementation
+- 2D graphics
+- Process & thread programming
 
-- Large-scale backend design with Clean Architecture
-- Distributed tracing (OpenTelemetry)
-- Database migration design (Alembic)
+
+
+<br>
+
+## 🏃‍♀️ Activities
+
+<div align="left">
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yuri4242&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri4242&theme=vue-dark&layout=compact" />
+</div>
