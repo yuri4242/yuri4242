@@ -40,7 +40,14 @@ All versions include DeepEval-based quality evaluation.
 
 ### AI Agent (WIP)
 
-Building an AI agent powered by RAG and LangGraph for autonomous information retrieval and task execution.
+Muilti-agent chatbot built with LangGraph.
+Runs multiple agents in parallel based on intent classification, combining RAG and extarnal APIs to generate responses.
+
+**Stack**: LangChain / LangGraph / FastAPI / ChromaDB(TBD) / Docker compose
+
+- Intent classification -> Auto-routing to QA Agent (RAG) / Data Agent (API)
+- Hybrid search with BM25 + vector search (RRF)
+- Lightweight chat UI with HTMX
 
 
 
