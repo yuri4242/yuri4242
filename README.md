@@ -4,7 +4,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 Backend engineer intern at Digital Grid, Inc.
 - 🎓 Student at 42Tokyo
 - 🤖 Building RAG systems with LangChain & OpenAI
 - 🌱 Currently learning Clean Architecture & distributed tracing
