@@ -13,10 +13,9 @@
 
 ## 🌱 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,go,c,cpp,docker,postgres,linux" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,go,c,docker,postgres,linux" />
 
-Also working with: **LangChain** / **LangGraph** / **LlamaIndex**
-/ **OpenAI API**
+Also working with: **LangChain** / **LangGraph**
 
 <br>
 
